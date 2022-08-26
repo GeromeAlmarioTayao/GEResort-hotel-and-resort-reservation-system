@@ -4,4 +4,5 @@
 
 .ImageContainer img {
     border: solid 2px #999;
+    zoom:60%;
 }
